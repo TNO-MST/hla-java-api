@@ -9,6 +9,11 @@
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.release>21</maven.compiler.release>
+    </properties>
+
     <name>hla1516e headers</name>
     <description>HLA Evolved (1516e) header files</description>
     <url>https://github.com/TNO-MST/hla-headers</url>
