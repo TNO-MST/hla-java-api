@@ -4,7 +4,7 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.tno-mst</groupId>
+    <groupId>nl.tno</groupId>
     <artifactId>hla1516e</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
