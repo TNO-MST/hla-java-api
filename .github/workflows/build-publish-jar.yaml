@@ -6,11 +6,21 @@ on:
     tags: ["*"] # Build + publish
 
 jobs:
-  build_and_publish:
+  build-and-publish-rti1516e:
     uses: TNO-MST/.github/.github/workflows/build-and-publish-maven-central.yml@main
     with:
       java_version: "21"
-      package_dir: "hla1516e"
+      package_dir: "rti1516e"
+      version_string_substitutions: ""
+      build_date_substitutions: ""
+      install_linux_libraries: ""
+    secrets: inherit
+
+  build-and-publish-rti1516_2025:
+    uses: TNO-MST/.github/.github/workflows/build-and-publish-maven-central.yml@main
+    with:
+      java_version: "21"
+      package_dir: "rti1516_2025"
       version_string_substitutions: ""
       build_date_substitutions: ""
       install_linux_libraries: ""

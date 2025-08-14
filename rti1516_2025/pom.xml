@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>nl.tno</groupId>
-    <artifactId>hla1516e</artifactId>
-    <version>0.0.1</version>
+    <artifactId>rti1516_2025</artifactId>
+    <version>0.0.0-git</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -14,8 +14,8 @@
         <maven.compiler.release>21</maven.compiler.release>
     </properties>
 
-    <name>hla1516e headers</name>
-    <description>HLA Evolved (1516e) header files</description>
+    <name>rti1516_2025 headers</name>
+    <description>HLA 4 (1516_2025) header files</description>
     <url>https://github.com/TNO-MST/hla-headers</url>
 
     <licenses>
