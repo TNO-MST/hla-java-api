@@ -5,6 +5,7 @@ on:
     branches: ["**"] # Build
     tags: ["*"] # Build + publish
 
+    
 jobs:
   build_and_publish:
     uses: TNO-MST/.github/.github/workflows/build-and-publish-maven-central.yml@main
