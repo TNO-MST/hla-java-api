@@ -1,0 +1,17 @@
+name: Build jar and optionally publish to Maven Central
+
+on:
+  push:
+    branches: ["**"] # Build
+    tags: ["*"] # Build + publish
+
+jobs:
+  build_and_publish:
+    uses: TNO-MST/.github/workflows/build-and-publish.yml@main
+    with:
+      java_version: "21"
+      package_dir: "hla1516e"
+      version_string_substitutions: ""
+      build_date_substitutions: ""
+      install_linux_libraries: ""
+    secrets: inherit
