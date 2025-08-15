@@ -13,3 +13,11 @@ attribution: "Reprinted with permission from IEEE 1516.1(TM)-{2010|2025}".
 Should you require additional information, contact the Manager, Standards
 Intellectual Property, IEEE Standards Association (stds-ipr@ieee.org).
 ```
+
+## General information
+
+- [License](LICENSE)
+- [Code of Conduct](https://github.com/TNO-MST/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Support policy](https://github.com/TNO-MST/.github/blob/main/SUPPORT.md)
+- [Contributing guidelines](https://github.com/TNO-MST/.github/blob/main/CONTRIBUTING.md)
+- [Security policy](https://github.com/TNO-MST/.github/blob/main/SECURITY.md)
