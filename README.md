@@ -1,7 +1,7 @@
 # HLA Java headers
 
 Re-distribution of the IEEE HLA Java header files.
-Made available through [Maven Central](https://central.sonatype.com/search?namespace=nl.tno) for your convenience.
+Made available through [Maven Central](https://central.sonatype.com/namespace/nl.tno) for your convenience.
 
 This repository currently contains the [`hla.rti1516e` (HLA Evolved)](https://standards.ieee.org/wp-content/uploads/import/download/1516.1-2010_downloads.zip) and [`hla.rti1516_2025` (HLA 4)](https://standards.ieee.org/wp-content/uploads/2025/08/1516.1-2025_downloads.zip) headers.
 
