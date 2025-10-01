@@ -14,9 +14,9 @@
         <maven.compiler.release>21</maven.compiler.release>
     </properties>
 
-    <name>rti1516_2025 headers</name>
-    <description>HLA 4 (1516_2025) header files</description>
-    <url>https://github.com/TNO-MST/hla-headers</url>
+    <name>rti1516_2025 Java API headers</name>
+    <description>HLA 4 (1516_2025) Java API header files</description>
+    <url>https://github.com/TNO-MST/hla-java-api</url>
 
     <licenses>
         <license>
@@ -35,9 +35,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/TNO-MST/hla-headers.git</connection>
-        <developerConnection>scm:git:ssh://github.com:TNO-MST/hla-headers.git</developerConnection>
-        <url>https://github.com/TNO-MST/hla-headers/tree/main</url>
+        <connection>scm:git:git://github.com/TNO-MST/hla-java-api.git</connection>
+        <developerConnection>scm:git:ssh://github.com:TNO-MST/hla-java-api.git</developerConnection>
+        <url>https://github.com/TNO-MST/hla-java-api/tree/main</url>
     </scm>
 
     <build>
