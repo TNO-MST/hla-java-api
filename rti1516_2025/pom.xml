@@ -34,6 +34,10 @@
         </developer>
     </developers>
 
+    <issueManagement>
+        <url>https://github.com/TNO-MST/hla-java-api/issues</url>
+    </issueManagement>
+
     <scm>
         <connection>scm:git:git://github.com/TNO-MST/hla-java-api.git</connection>
         <developerConnection>scm:git:ssh://github.com:TNO-MST/hla-java-api.git</developerConnection>
