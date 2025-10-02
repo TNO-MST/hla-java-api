@@ -1,0 +1,14 @@
+This project includes components developed by the _Nederlandse Organisatie voor toegepast-natuurwetenschappelijk Onderzoek TNO_ and may incorporate third-party software libraries.
+
+We kindly request - without creating any additional legal obligations beyond the Apache License, Version 2.0 - that anyone who uses, modifies, or distributes this software:
+
+- Acknowledge the TNO components used, including their names and version numbers.
+- Indicate any modifications made to these components.
+
+If possible, please include this information in your documentation and, if possible, a prominent location within the software's user interface.
+
+This project may depend on external libraries or packages. These dependencies are declared in one or more dependency management files (such as manifest files, lock files, or environment specifications) relevant to the ecosystem in which the software is built.
+
+Each dependency is subject to its own license terms and conditions. Attribution and license information for these components is provided in their respective package metadata or documentation. If any third-party component includes a `NOTICE` file or requires attribution, such notices are preserved and included here or in the corresponding dependency declaration.
+
+This `NOTICE` file is provided for informational purposes only and does not modify the License. For details, see the `LICENSE` file included with this distribution.
