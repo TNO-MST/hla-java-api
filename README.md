@@ -1,3 +1,11 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/TNO-MST/hla-java-api/build-publish-jar.yaml?branch=main&label=build&event=push)
+
+[![Maven Central Version](https://img.shields.io/maven-central/v/nl.tno/rti1516e?label=maven-central-rti1516e)](https://central.sonatype.com/artifact/nl.tno/rti1516e)
+[![javadoc](https://javadoc.io/badge2/nl.tno/oorti/javadoc.svg)](https://javadoc.io/doc/nl.tno/rti1516e) 
+
+[![Maven Central Version](https://img.shields.io/maven-central/v/nl.tno/rti1516_2025?label=maven-central-rti1516_2025)](https://central.sonatype.com/artifact/nl.tno/rti1516_2025)
+[![javadoc](https://javadoc.io/badge2/nl.tno/oorti/javadoc.svg)](https://javadoc.io/doc/nl.tno/rti1516_2025) 
+
 # HLA Java headers
 
 Re-distribution of the IEEE HLA Java header files.
